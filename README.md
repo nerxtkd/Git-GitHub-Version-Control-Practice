@@ -45,7 +45,7 @@ Realizado como parte del ciclo de Grado de especialización en Ciberseguridad.
 ## 📄 Documentación de la práctica
 
 Puedes consultar el informe completo en PDF aquí:  
-📁 [UT05_Practica1_Puesta_en_Produccion_Segura.pdf](./Prácticas/UT05_Practica1_Puesta_en_Produccion_Segura.pdf)
+📁 [UT05_Practica1_PPS.pdf](https://github.com/nerxtkd/Documentaciones/blob/main/UT05_Practica1_PPS.pdf)
 
 ## 🔗 Autor
 
