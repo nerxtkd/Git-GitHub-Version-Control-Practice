@@ -3,6 +3,8 @@
 Este repositorio forma parte de una práctica del módulo de Puesta en Producción Segura del grado de especialización en Ciberseguridad.
 El objetivo es aprender y aplicar los conceptos básicos del control de versiones usando Git y GitHub.
 
+---
+
 ## 📁 Contenido del proyecto
 
 - Creación e inicialización de un repositorio Git local.
