@@ -49,7 +49,6 @@ Realizado como parte del ciclo de Grado de especialización en Ciberseguridad.
 Puedes consultar el informe completo en PDF aquí:  
 📁 [Git-GitHub-Version-Control-Practice_UT05_Practica1_PPS.pdf](https://github.com/nerxtkd/Documentaciones/blob/main/Git-GitHub-Version-Control-Practice_UT05_Practica1_PPS.pdf)
 
-## 🔗 Autor
-
-Proyecto realizado por [Nerea C.]  
-GitHub: [nerxtkd](https://github.com/nerxtkd)
+## 👩‍💻 Autora:
+Trabajo realizado por Nerea C.  
+🔗 Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
